@@ -1,91 +1,59 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Obe Megargel's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Obediah Megargel
+Programmer, entrepreneur, Computer Science Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="Obemegargel@gmail.com">Obemegargel@gmail.com</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My Personal Website</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
+## Languages
+<!-- * Tech Stacks: To Be Determined -->
+* Profitient: Python, html, css, Japanese
+* Experience: C#, SQL
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Problem solving. Programming, and making the next business inovation.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Full Stack Website developement, small business management, personal inventions and products.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020 - 2025`
+__Brigham Young University, Rexburg ID__
+Computer Science Major, Machine Learning track, Focus on Websites, Small Business Minor
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Projects
 
-- Sizar
+[Survey Website on Github](https://github.com/Obemegargel/Survey_Website)
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+In the process of designing, creating and eventually selling card games and board games.
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+Previous bosses have thanked me for my hard work and diligence, I see that as an award.
 
-Associate, *French Academy of Science*, Paris, France
+## Skills
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+I am highly motivated. I see everything you teach me as a way to better my skills to be more helpful.
+When I am on the clock I ensure my time is yours. I limit distractions and ask questions when I need clarification.
+I am also naturally happy. Past coworkers have joked about how they never saw me mad.
+Phenomenal programmer
 
 
-## Occupation
+## Work Experience
 
-`1600`
-__Royal Mint__, London
+I have started two businesses. They are my stepping stones into the business world.
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`April 2023 - September 2023` Construction Worker
 
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: December/5/2023
 
 
